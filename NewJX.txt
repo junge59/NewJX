@@ -859,9 +859,9 @@ NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/32212256
 江西教育频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
 江西教育频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
 江西教育频道,http://39.134.115.163:8080/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
-赣州新闻综合,http://wb.jxgztv.com/live/gztv1.flv
-赣州公共,http://wb.jxgztv.com/live/gztv2.flv
-赣州教育,http://wb.jxgztv.com/live/gztv3.flv
+赣州新闻综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
+赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
+赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 九江新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
@@ -872,6 +872,10 @@ NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/32212256
 新余新闻,http://43.138.192.238:19008/hls/tva/playlist.m3u8
 新余公共,http://43.138.192.238:19008/hls/tvb/playlist.m3u8
 新余教育,http://43.138.192.238:19008/hls/tvc/playlist.m3u8
+萍乡新闻,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+宜春新闻,https://live-yc.newsyc.com/wetef/sd/live.m3u8
+宜春公共,https://live-yc.newsyc.com/two/sd/live.m3u8
 景德镇新闻综合,http://115.149.139.141:10001/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 特色频道,#genre#
 纪实科教,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225676/index.m3u8
