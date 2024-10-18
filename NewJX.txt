@@ -863,6 +863,9 @@ NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/32212256
 江西教育频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
 江西教育频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
 江西教育频道,http://39.134.115.163:8080/PLTV/88888910/224/3221226197/index.m3u8?fmt=ts2hls
+南昌1-新闻综合[1920x1080],http://117.169.30.5:6610/PLTV/88888888/224/3221226382/2/index.m3u8?fmt=ts2hls
+南昌2-都市[1920x1080],http://117.169.30.5:6610/PLTV/88888888/224/3221226385/2/index.m3u8?fmt=ts2hls
+南昌3-资讯[1920x1080],http://117.169.30.5:6610/PLTV/88888888/224/3221226374/2/index.m3u8?fmt=ts2hls
 赣州新闻综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
 赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
 赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
