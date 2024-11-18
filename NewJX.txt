@@ -1738,9 +1738,9 @@ NewTV中国功夫,http://39.134.115.163:8080/PLTV/88888888/224/3221225660/2/inde
 赣州新闻综合,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAI-YfkaMiPoX&secondToken=secondToken%3A4xWxvR0YiNTgTjnOqTX93KNNPk8&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526329228525&v3=1
 赣州公共,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAABmq7pwEifoX&secondToken=secondToken%3AzG0JU8A6fwL6O15xTMTT-AEauzI&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526334096251&v3=1
 赣州教育,http://3748626833.cloudvdn.com/a.m3u8?domain=pili-live-hls-sjxgz2024.sobeylive.com&player=bbMAAAav2MXuiPoX&secondToken=secondToken%3AnlVfgzcJ_IMwc-NV78V1ZrRtw9w&streamid=jxgz2024%3Ajxgz2024%2F396_q_live172526335287668&v3=1
-九江新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
-九江公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
-九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
+九江新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8?t=1731218251&token=243c618a33011edde0086494471889b6
+九江公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8?t=1731218251&token=12c8afc99d691376b8fafcc1ab802c53
+九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=1731218251&token=fdcb7a32738099676a61f6618b000d9e
 上饶综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
 上饶经济,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
 新余新闻,http://43.138.192.238:19008/hls/tva/playlist.m3u8
