@@ -288,7 +288,10 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225764/index.m3u8
 黑莓动画,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225672/index.m3u8
 黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
-精品影视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
+影视选播1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225712/index.m3u8
+影视选播1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225712/index.m3u8
+影视选播2,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225716/index.m3u8
+影视选播2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
 睛彩广场舞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226383/index.m3u8?fmt=ts2hls
 睛彩广场舞,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226383/index.m3u8?fmt=ts2hls
 睛彩竞技,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226243/index.m3u8
@@ -336,6 +339,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 兵团卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226200/index.m3u8
 兵团卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225530/index.m3u8?fmt=ts2hls
 兵团卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225530/index.m3u8?fmt=ts2hls
+东方卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/2/index.m3u8?fmt=ts2hls
+东方卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226429/index.m3u8?fmt=ts2hls
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225659/index.m3u8
@@ -414,6 +419,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 湖北卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225740/index.m3u8
 湖北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225550/index.m3u8?fmt=ts2hls
 湖北卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225550/index.m3u8?fmt=ts2hls
+湖南卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/2/index.m3u8?fmt=ts2hls
+湖南卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226398/index.m3u8?fmt=ts2hls
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225704/index.m3u8
@@ -428,6 +435,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 吉林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225553/index.m3u8?fmt=ts2hls
 吉林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225553/index.m3u8?fmt=ts2hls
+江苏卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/2/index.m3u8?fmt=ts2hls
+江苏卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226401/index.m3u8?fmt=ts2hls
 江苏卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225702/index.m3u8
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225488/index.m3u8?fmt=ts2hls
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
@@ -466,6 +475,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 厦门卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226199/index.m3u8
 厦门卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226375/index.m3u8?fmt=ts2hls
 厦门卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226375/index.m3u8?fmt=ts2hls
+山东卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls
+山东卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226407/index.m3u8?fmt=ts2hls
 山东卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225697/index.m3u8
 山东卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225484/index.m3u8?fmt=ts2hls
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225697/index.m3u8
@@ -496,6 +507,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225741/index.m3u8
 深圳卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225559/index.m3u8?fmt=ts2hls
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225559/index.m3u8?fmt=ts2hls
+四川卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/2/index.m3u8?fmt=ts2hls
+四川卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226424/index.m3u8?fmt=ts2hls
 四川卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225733/index.m3u8
 四川卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225487/index.m3u8?fmt=ts2hls
 四川卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225733/index.m3u8
@@ -524,6 +537,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 云南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225664/index.m3u8
 云南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225538/index.m3u8?fmt=ts2hls
 云南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225538/index.m3u8?fmt=ts2hls
+浙江卫视[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls
+浙江卫视[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226404/index.m3u8?fmt=ts2hls
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225703/index.m3u8
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225491/index.m3u8?fmt=ts2hls
 浙江卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225703/index.m3u8
@@ -609,18 +624,12 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8?t=1731218251&token=fdcb7a32738099676a61f6618b000d9e
 九江教育,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
 吉安新闻综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
-抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
 抚州综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_fuzhou.m3u8
-抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 上饶新闻综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_shangrao.m3u8
 上饶新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_shangrao.m3u8
-上饶新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
-上饶经济旅游,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
 新余新闻,http://play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu.m3u8
 新余新闻,http://play-live-hls.jxtvcn.com.cn/live/tv_xinyu.m3u8
 宜春新闻,http://play-live-hls.jxtvcn.com.cn/live-city/tv_yichun.m3u8
-宜春新闻,https://live-yc.newsyc.com/wetef/sd/live.m3u8
-宜春公共,https://live-yc.newsyc.com/two/sd/live.m3u8
 萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_pingxiang.m3u8
 萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
@@ -629,14 +638,6 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 景德镇综合,http://115.149.139.141:10001/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 鹰潭新闻,http://play-live-hls.jxtvcn.com.cn/live/tv_yingtan.m3u8
 鹰潭新闻,http://play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
-分宜电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
-武宁电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
-修水电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
-永修电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
-余干电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
-龙南,http://p2hs.vzan.com/slowlive/514115730916142429/live.m3u8
-南康,http://zhibo.jxxw.com.cn/live/NKDST.m3u8?txSecret=21ec65635f3ba3c0aea94a430e6acf9e&txTime=ce703de3
-德兴,http://218.64.164.152:5021/live_hls/2/playlist.m3u8
 特色频道,#genre#
 纪实科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
 纪实科教,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225676/index.m3u8
@@ -674,8 +675,6 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 生态环境,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226325/index.m3u8?fmt=ts2hls
 中国天气,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226334/index.m3u8?fmt=ts2hls
 中国天气,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226334/index.m3u8?fmt=ts2hls
-中华特产,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226317/index.m3u8?fmt=ts2hls
-中华特产,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226317/index.m3u8?fmt=ts2hls
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226246/index.m3u8?fmt=ts2hls
 金鹰卡通,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226246/index.m3u8?fmt=ts2hls
 金鹰卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225721/index.m3u8
@@ -702,8 +701,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 优优宝贝,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226312/index.m3u8?fmt=ts2hls
 优优宝贝,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226312/index.m3u8?fmt=ts2hls
-4K[超高清],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
-4K[超高清],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225786/index.m3u8
+畅享4K[超高清],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+畅享4K[超高清],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225786/index.m3u8
 CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 CETV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 CETV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225661/index.m3u8
@@ -744,5 +743,4 @@ CETV4,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221
 购物9,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226239/index.m3u8?fmt=ts2hls
 购物10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
 购物10,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226219/index.m3u8
-购物、影视选播,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225716/index.m3u8
-购物、影视选播,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
+
