@@ -306,6 +306,7 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 睛彩青少,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226261/index.m3u8
 睛彩青少,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226380/index.m3u8?fmt=ts2hls
 睛彩青少,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226380/index.m3u8?fmt=ts2hls
+重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
 卫视频道,#genre#
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226251/index.m3u8
@@ -313,8 +314,6 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 凤凰中文,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
 凤凰资讯,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226274/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=9849280c9925fb7dadb76040-173062619005888&wsIPSercert=ef439965f768133f6c9d1c8b8e060b14
 安徽卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226352/index.m3u8?fmt=ts2hls
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225691/index.m3u8
 安徽卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225737/index.m3u8
@@ -751,5 +750,6 @@ CETV4,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221
 购物9,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226239/index.m3u8?fmt=ts2hls
 购物10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
 购物10,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226219/index.m3u8
+
 
 
