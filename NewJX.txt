@@ -583,8 +583,6 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 武术世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225508/index.m3u8?fmt=ts2hls
 先锋乒羽,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226311/index.m3u8?fmt=ts2hls
 先锋乒羽,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226311/index.m3u8?fmt=ts2hls
-茶频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
-茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 重庆汽摩,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225506/index.m3u8?fmt=ts2hls
 重庆汽摩,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225506/index.m3u8?fmt=ts2hls
 国学频道,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226338/index.m3u8?fmt=ts2hls
