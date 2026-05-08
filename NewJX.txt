@@ -554,6 +554,8 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 景德镇综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 宜春公共,http://liveds-yc.newsyc.com/two/sd/live.m3u8
 宜春综合,http://liveds-yc.newsyc.com/wetef/sd/live.m3u8
+新余综合,http://175.178.86.156:8001/hls/w_MGyzT4AuoD4I3TRAoQxjGRQwg74r0M/playlist.m3u8
+新余教育,http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
 龙南新闻综合,http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
 井冈山综合,http://play-a2.quklive.com/live/1743498103845328.m3u8
 玉山新闻综合,http://play-a2.quklive.com/live/1744269699236128.m3u8
