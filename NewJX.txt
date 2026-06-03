@@ -623,8 +623,6 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 优优宝贝,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226312/index.m3u8?fmt=ts2hls
 优优宝贝,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226312/index.m3u8?fmt=ts2hls
-畅享4K[4K],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
-畅享4K[4K],http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225786/index.m3u8
 CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 CETV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 CETV1,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225661/index.m3u8
