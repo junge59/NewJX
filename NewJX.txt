@@ -548,8 +548,11 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 上饶经济旅游,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226416/index.m3u8?fmt=ts2hls
 萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+抚州综合,http://fzcds.cn:799/hls/500/index.m3u8
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+抚州公共,http://fzcds.cn:799/hls/26/index.m3u8
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
+临川综合,http://fzcds.cn:799/hls/27/index.m3u8
 景德镇综合,rtmp://play-sh.quklive.com/live/1724916607073321
 景德镇综合,http://play-sh.quklive.com/live/1724916607073321.m3u8
 宜春公共,http://liveds-yc.newsyc.com/two/sd/live.m3u8
