@@ -1512,8 +1512,8 @@ SiTV乐游[1920x1080],http://112.192.73.79:8484/rtp/239.0.0.30:5140
 浙江钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江经济生活,https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江教科影视,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+浙江影视科教,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
+浙江影视科教,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江民生休闲,https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-282c3b532279f2b8bad8ebde1b41632f
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江新闻,https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-d7a412e81007d77a8c8e9b582efd7ee3
