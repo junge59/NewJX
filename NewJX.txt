@@ -553,6 +553,7 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 上饶经济旅游,rtmp://play-sh-21.quklive.com/live/1758679936307088?auth_key=2079617536-356c8b119c6e4ebd86e1f7e4a900500c-0-d490c1eb45e87bdadae3d82bb8b1f452
 吉安1-综合,https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 吉安2-公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
+萍乡综合,https://play-sh-21.quklive.com/live/1767680696432348.flv?auth_key=2093843903-21815d83dd5047608abbe5a659b5908d-0-21b97a00a1a3f4e549fc90253d894ae7
 X萍乡综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 X萍乡公共,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 抚州综合,http://fzcds.cn:799/hls/500/index.m3u8
