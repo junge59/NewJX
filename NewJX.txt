@@ -1057,6 +1057,17 @@ CCTV14[1920*1080],http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv
 天津卫视[1920*1080],http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv
 云南卫视[785*576],http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv
 浙江卫视[1920*1080],http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv
-
+江苏,#genre#
+南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+苏州1-新闻综合[1280*720],https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州2-社会经济[1280*720],https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州3-文化生活[1280*720],https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州4-电影娱乐[1280*720],https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州5-生活资讯[1280*720],https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8
+镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 
