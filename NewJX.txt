@@ -1069,6 +1069,7 @@ CCTV14[1920*1080],http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江社会民生,http://cm-wshls.homecdn.com/live/2aa16.m3u8
 镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 
 阿里云,#genre#
 CCTV1,http://59.110.175.70:23567/PLTV/651/224/3221226635/1.m3u8
@@ -1246,7 +1247,6 @@ CGTN英语,http://59.110.175.70:23567/PLTV/651/224/3221226666/1.m3u8
 安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
 林甸综合,https://rmplive.hljtv.com/live/lindian.m3u8
 
-
 陕西,#genre#
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
@@ -1256,3 +1256,35 @@ CGTN英语,http://59.110.175.70:23567/PLTV/651/224/3221226666/1.m3u8
 陕西农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 
+河北,#genre#
+邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+
+云南,#genre#
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
+云南保山1,https://hwapi.yntv.net/7y80ii/7672o4.m3u8
+大理新闻,https://hwapi.yntv.net/ew265l/n944fg.m3u8
+
+新疆,#genre#
+兵团八师石合子新闻,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+
+广东,#genre#
+南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
