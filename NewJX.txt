@@ -1377,6 +1377,21 @@ CGTN英语,http://59.110.175.70:23567/PLTV/651/224/3221226666/1.m3u8
 云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
 云南保山1,https://hwapi.yntv.net/7y80ii/7672o4.m3u8
 大理新闻,https://hwapi.yntv.net/ew265l/n944fg.m3u8
+云南|丽江新闻综合,https://hwapi.yntv.net/ew265l/ke88o9.m3u8
+云南|玉溪新闻综合,https://hwapi.yntv.net/r5fc3f/4kzlat_hd.m3u8
+云南|玉溪社会与法,https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8
+云南|昭通1,https://hwapi.yntv.net/ew265l/5fkqnm.m3u8
+云南|昭通3,https://hwapi.yntv.net/9nwc4s/y7445b.m3u8
+云南|楚雄新闻,https://hwapi.yntv.net/ew265l/848y54.m3u8
+云南|红河新闻综合,https://live.hh.cn/hhtv1/index.m3u8
+云南|文山新闻综合,https://hwapi.yntv.net/ew265l/29vf20.m3u8
+云南|临仓综合,https://hwapi.yntv.net/6tt654/1i495z.m3u8
+云南|临仓公共,https://hwapi.yntv.net/6tt654/drfs5s.m3u8
+云南|西双版纳新闻综合,https://hwapi.yntv.net/ew265l/47480o_uhd.m3u8
+云南|怒江新闻综合,https://hwapi.yntv.net/s5xpv2/9r4ei4.m3u8
+云南|江川综合,https://zb-live.ynurl.com/jiangchuan/ad8dc86f-f35a-4203-85f0-dfd0eef52d18.m3u8
+云南|通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+云南|元江电视台,https://hwapi.yntv.net/vu7hkj/x6rer3.m3u8
 
 新疆,#genre#
 兵团八师石合子新闻,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
