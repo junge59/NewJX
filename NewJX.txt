@@ -1836,3 +1836,15 @@ CDTV8-购物,http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.160:5140
 重庆卫视,http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.82:5140
 重庆卫视,http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.82:5140
 重庆卫视,http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.82:5140
+
+上海,#genre#
+上海|东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+上海|新闻综合,http://8.138.7.223/tv/5gtv.php?id=36
+上海|东方财经,http://8.138.7.223/tv/5gtv.php?id=227
+上海|第一财经,http://8.138.7.223/tv/5gtv.php?id=17
+上海|生活时尚,http://8.138.7.223/tv/5gtv.php?id=230
+上海|法治天地,http://8.138.7.223/tv/5gtv.php?id=29
+上海|金色学堂,http://8.138.7.223/tv/5gtv.php?id=40
+上海|游戏风云,http://8.138.7.223/tv/5gtv.php?id=224
+上海|东方财富,https://volcanopull.aniu.tv/live/aniu1/index.m3u8
+上海|点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
