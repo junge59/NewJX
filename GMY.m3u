@@ -281,6 +281,10 @@ http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226345
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226422/index.m3u8
 #EXTINF:-1 ,CCTV[4K]
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226422/index.m3u8
+#EXTINF:-1 ,CCTV[4K]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226480/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,CCTV[4K]
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226480/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,====== 央视收费,#genre# ======
 http://1/1.m3u8
 #EXTINF:-1 ,CCTV兵器科技
@@ -802,6 +806,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226477/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,内蒙古卫视
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226477/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,内蒙古卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225533/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,内蒙古卫视
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221225533/index.m3u8?fmt=ts2hls
@@ -1111,22 +1119,18 @@ https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 #EXTINF:-1 ,萍乡综合
 https://play-sh-21.quklive.com/live/1767680696432348.flv?auth_key=2093843903-21815d83dd5047608abbe5a659b5908d-0-21b97a00a1a3f4e549fc90253d894ae7
-#EXTINF:-1 ,X萍乡综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-#EXTINF:-1 ,X萍乡公共
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 #EXTINF:-1 ,抚州综合
 http://fzcds.cn:799/hls/500/index.m3u8
 #EXTINF:-1 ,抚州综合
 http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
+#EXTINF:-1 ,抚州综合
+https://api.zgfznews.com/fztv/zonghe.m3u8
 #EXTINF:-1 ,抚州公共
 http://fzcds.cn:799/hls/26/index.m3u8
 #EXTINF:-1 ,抚州公共
 http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
-#EXTINF:-1 ,景德镇综合
-rtmp://play-sh.quklive.com/live/1724916607073321
-#EXTINF:-1 ,景德镇综合
-http://play-sh.quklive.com/live/1724916607073321.m3u8
+#EXTINF:-1 ,抚州公共
+https://api.zgfznews.com/fztv/gonggong.m3u8
 #EXTINF:-1 ,宜春综合
 http://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 #EXTINF:-1 ,宜春公共
@@ -1135,40 +1139,26 @@ http://liveds-yc.newsyc.com/two/sd/live.m3u8
 http://175.178.86.156:8001/hls/w_MGyzT4AuoD4I3TRAoQxjGRQwg74r0M/playlist.m3u8
 #EXTINF:-1 ,新余教育
 http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
-#EXTINF:-1 ,X龙南新闻综合
-http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
 #EXTINF:-1 ,定南综合
 http://play-sh13.quklive.com/live/1762136155495343.m3u8?auth_key=2079618705-65d76ec872e34ae4b20754350ddb966e-0-6ffe234c7afa525ab41523ce49baa6a3
 #EXTINF:-1 ,定南综合
 http://play-sh13.quklive.com/live/1762136155495343.flv?auth_key=2079618705-0fd5bca73b0b4a62b3f5242d1547db8d-0-2e111ba4528712606f533b714b28e02e
 #EXTINF:-1 ,定南综合
 rtmp://play-sh13.quklive.com/live/1762136155495343?auth_key=2079618705-5288b14645344305aeb44516922eb708-0-bff6f51150f581fdd53038aaf771e7f5
-#EXTINF:-1 ,X井冈山综合
-http://play-a2.quklive.com/live/1743498103845328.m3u8
 #EXTINF:-1 ,玉山新闻综合
 http://play-a2.quklive.com/live/1744269699236128.m3u8
-#EXTINF:-1 ,X崇仁综合
-http://play-a2.quklive.com/live/1744277411242065.m3u8
 #EXTINF:-1 ,乐安综合
 http://play-a2.quklive.com/live/1752744744088073.m3u8
-#EXTINF:-1 ,X广丰综合
-http://play-a2.quklive.com/live/1754033359790055.m3u8
 #EXTINF:-1 ,南康综合
 http://play-a2.quklive.com/live/1758525653004384.m3u8
 #EXTINF:-1 ,德兴新闻综合
 http://218.64.164.152:5021/live_hls/2/playlist.m3u8
 #EXTINF:-1 ,丰城新闻综合
 https://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2078289279-0a5d6fc5967248dfafee7fa442d5503a-0-3b9dc4c709fc2f111eb141a77bd1170c
-#EXTINF:-1 ,X彭泽综合
-rtmp://play-a2.quklive.com/live/1740970999257207
-#EXTINF:-1 ,X万载综合
-rtmp://play-a2.quklive.com/live/1739162440932308
 #EXTINF:-1 ,瑞金综合
 https://play-a2.quklive.com/live/1760408109205119.m3u8
 #EXTINF:-1 ,信丰综合
 https://play-a2.quklive.com/live/1761874123034214.m3u8
-#EXTINF:-1 ,X大余综合
-https://play-a2.quklive.com/live/1757066245476057.m3u8
 #EXTINF:-1 ,鹰潭综合
 https://47065.hlsplay.aodianyun.com/tv_radio_47065/tv_channel_2574.m3u8?auth_key=3306360579-0-0-643b91dca6504855a7f3b6c25fc65bae&extra_key=UIJC1IKvRr5RIQ8OO-Kb-jHvK3dZ23KL--EicHBaH9xLD4liBWqzvERJK0QtE6_x_bngd2X2NTmw2z8BGWgHZjryaqwp5XY9Ot_RNnw2BjyE36nTfjxs3IdTbnpcIPPQ0jkLid3iC5-SjntGIUKXzkSDQEw2zzOJiifOoOwsX0Y
 #EXTINF:-1 ,临川综合
@@ -1363,6 +1353,10 @@ http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226239
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226219/index.m3u8
 #EXTINF:-1 ,购物10
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226219/index.m3u8
+#EXTINF:-1 ,聚鲨环球精选
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226431/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,聚鲨环球精选
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888910/224/3221226431/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,====== 咪咕体育,#genre# ======
 http://7/7.m3u8
 #EXTINF:-1 ,咪咕1
@@ -1455,8 +1449,150 @@ http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000015470/1.m3u8?channe
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 #EXTINF:-1 ,咪咕-睛彩篮球
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
-#EXTINF:-1 ,====== 易视腾,#genre# ======
+#EXTINF:-1 ,====== 咪咕央卫,#genre# ======
 http://8/8.m3u8
+#EXTINF:-1 ,CCTV-1
+http://mg.cttv.vip/608807420
+#EXTINF:-1 ,CCTV-2
+http://mg.cttv.vip/631780532
+#EXTINF:-1 ,CCTV-3
+http://mg.cttv.vip/624878271
+#EXTINF:-1 ,CCTV-4
+http://mg.cttv.vip/631780421
+#EXTINF:-1 ,CCTV-5
+http://mg.cttv.vip/641886683
+#EXTINF:-1 ,CCTV-5+
+http://mg.cttv.vip/641886773
+#EXTINF:-1 ,CCTV-6
+http://mg.cttv.vip/624878396
+#EXTINF:-1 ,CCTV-7
+http://mg.cttv.vip/673168121
+#EXTINF:-1 ,CCTV-8
+http://mg.cttv.vip/624878356
+#EXTINF:-1 ,CCTV-9
+http://mg.cttv.vip/673168140
+#EXTINF:-1 ,CCTV-10
+http://mg.cttv.vip/624878405
+#EXTINF:-1 ,CCTV-11
+http://mg.cttv.vip/667987558
+#EXTINF:-1 ,CCTV-12
+http://mg.cttv.vip/673168185
+#EXTINF:-1 ,CCTV-13
+http://mg.cttv.vip/608807423
+#EXTINF:-1 ,CCTV-14
+http://mg.cttv.vip/624878440
+#EXTINF:-1 ,CCTV-15
+http://mg.cttv.vip/673168223
+#EXTINF:-1 ,CCTV-17
+http://mg.cttv.vip/673168256
+#EXTINF:-1 ,CCTV-4欧洲
+http://mg.cttv.vip/608807419
+#EXTINF:-1 ,CCTV-4美洲
+http://mg.cttv.vip/608807416
+#EXTINF:-1 ,CCTV-发现之旅
+http://mg.cttv.vip/624878970
+#EXTINF:-1 ,CCTV-中学生
+http://mg.cttv.vip/708869532
+#EXTINF:-1 ,东方卫视
+http://mg.cttv.vip/651632648
+#EXTINF:-1 ,江苏卫视
+http://mg.cttv.vip/623899368
+#EXTINF:-1 ,北京卫视
+http://mg.cttv.vip/630287636
+#EXTINF:-1 ,辽宁卫视
+http://mg.cttv.vip/630291707
+#EXTINF:-1 ,湖北卫视
+http://mg.cttv.vip/947472496
+#EXTINF:-1 ,中国农林卫视
+http://mg.cttv.vip/956904896
+#EXTINF:-1 ,兵团卫视
+http://mg.cttv.vip/956923145
+#EXTINF:-1 ,上海|新闻综合
+http://mg.cttv.vip/651632657
+#EXTINF:-1 ,江苏|盐城新闻综合
+http://mg.cttv.vip/639731825
+#EXTINF:-1 ,江苏|江阴新闻综合
+http://mg.cttv.vip/955227979
+#EXTINF:-1 ,江苏|南通新闻综合
+http://mg.cttv.vip/955227985
+#EXTINF:-1 ,江苏|宜兴新闻综合
+http://mg.cttv.vip/955227996
+#EXTINF:-1 ,江苏|溧水新闻综合
+http://mg.cttv.vip/639737327
+#EXTINF:-1 ,陕西银龄
+http://mg.cttv.vip/956909362
+#EXTINF:-1 ,陕西都市青春
+http://mg.cttv.vip/956909358
+#EXTINF:-1 ,陕西秦腔
+http://mg.cttv.vip/956909303
+#EXTINF:-1 ,陕西新闻资讯
+http://mg.cttv.vip/956909289
+#EXTINF:-1 ,财富天下
+http://mg.cttv.vip/956923159
+#EXTINF:-1 ,海南新闻
+http://mg.cttv.vip/962067517
+#EXTINF:-1 ,海南自贸
+http://mg.cttv.vip/962045226
+#EXTINF:-1 ,海南社会与法
+http://mg.cttv.vip/962045223
+#EXTINF:-1 ,海南文旅
+http://mg.cttv.vip/962067526
+#EXTINF:-1 ,海南少儿
+http://mg.cttv.vip/962067523
+#EXTINF:-1 ,赛事最经典
+http://mg.cttv.vip/646596895
+#EXTINF:-1 ,体坛名栏汇
+http://mg.cttv.vip/629943305
+#EXTINF:-1 ,四海钓鱼
+http://mg.cttv.vip/637444975
+#EXTINF:-1 ,陕西体育休闲
+http://mg.cttv.vip/956909356
+#EXTINF:-1 ,24小时城市联赛轮播台
+http://mg.cttv.vip/915512915
+#EXTINF:-1 ,武术世界
+http://mg.cttv.vip/958475359
+#EXTINF:-1 ,快乐垂钓
+http://mg.cttv.vip/961930263
+#EXTINF:-1 ,经典香港电影
+http://mg.cttv.vip/625703337
+#EXTINF:-1 ,抗战经典影片
+http://mg.cttv.vip/617432318
+#EXTINF:-1 ,新片放映厅
+http://mg.cttv.vip/619495952
+#EXTINF:-1 ,CHC影迷电影
+http://mg.cttv.vip/952383261
+#EXTINF:-1 ,和美乡途轮播台
+http://mg.cttv.vip/713591450
+#EXTINF:-1 ,中国航天“逆袭”之路
+http://mg.cttv.vip/713600957
+#EXTINF:-1 ,中国天气
+http://mg.cttv.vip/959986621
+#EXTINF:-1 ,CETV1
+http://mg.cttv.vip/923287154
+#EXTINF:-1 ,CETV2
+http://mg.cttv.vip/923287211
+#EXTINF:-1 ,CETV4
+http://mg.cttv.vip/923287339
+#EXTINF:-1 ,山东教育
+http://mg.cttv.vip/609154353
+#EXTINF:-1 ,熊猫频道
+http://mg.cttv.vip/609158151
+#EXTINF:-1 ,最强综艺趴
+http://mg.cttv.vip/629942228
+#EXTINF:-1 ,经典动画大集合
+http://mg.cttv.vip/629942219
+#EXTINF:-1 ,新动漫
+http://mg.cttv.vip/961930269
+#EXTINF:-1 ,新动力量创一流
+http://mg.cttv.vip/713589837
+#EXTINF:-1 ,中华特产
+http://mg.cttv.vip/959986618
+#EXTINF:-1 ,环球旅游
+http://mg.cttv.vip/958475356
+#EXTINF:-1 ,梨园频道
+http://mg.cttv.vip/961930369
+#EXTINF:-1 ,====== 易视腾,#genre# ======
+http://9/9.m3u8
 #EXTINF:-1 ,CCTV1
 http://117.169.124.46:6410/ysten-businessmobile/live/cctv-1/yst.m3u8
 #EXTINF:-1 ,CCTV1
@@ -1678,7 +1814,7 @@ http://117.169.124.46:6410/ysten-businessmobile/live/youmankaton/yst.m3u8
 #EXTINF:-1 ,优漫卡通
 http://117.169.124.46:6610/ysten-businessmobile/live/youmankaton/yst.m3u8
 #EXTINF:-1 ,====== 抚州移动,#genre# ======
-http://9/9.m3u8
+http://10/10.m3u8
 #EXTINF:-1 ,CCTV1
 http://fzcds.cn:799/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -1864,7 +2000,7 @@ http://fzcds.cn:799/hls/74/index.m3u8
 #EXTINF:-1 ,戏曲2
 http://fzcds.cn:799/hls/84/index.m3u8
 #EXTINF:-1 ,====== 内蒙古,#genre# ======
-http://10/10.m3u8
+http://11/11.m3u8
 #EXTINF:-1 ,内蒙古经济生活
 http://play1-qk.nmtv.cn/live/2317general.m3u8
 #EXTINF:-1 ,内蒙古经济生活
@@ -1948,7 +2084,7 @@ http://play1-qk.nmtv.cn/live/2357general.m3u8
 #EXTINF:-1 ,兴安盟新闻综合
 http://play1-qk.nmtv.cn/live/2343general.m3u8
 #EXTINF:-1 ,====== 浙江,#genre# ======
-http://11/11.m3u8
+http://12/12.m3u8
 #EXTINF:-1 ,浙江卫视
 https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 #EXTINF:-1 ,浙江卫视
@@ -2009,3 +2145,1578 @@ https://zwebl02.cztv.com/live/channel111080Pnew.m3u8?auth_key=2524708799-ca798ce
 http://ali-xwl.cztv.com/live/channel111080Plxw.m3u8
 #EXTINF:-1 ,浙江好易购
 http://ali-xwl.cztv.com/live/channel11720Plxw.m3u8
+#EXTINF:-1 ,湖州公共
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+#EXTINF:-1 ,湖州新闻
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+#EXTINF:-1 ,湖州文化
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 ,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#EXTINF:-1 ,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+#EXTINF:-1 ,绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+#EXTINF:-1 ,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 ,萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#EXTINF:-1 ,萧山生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 ,====== 青岛移动,#genre# ======
+http://13/13.m3u8
+#EXTINF:-1 ,CCTV1[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0001_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV2[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV3[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0003_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV4[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV5[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV5+[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV6[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV7[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0008_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV8[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV9[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV10[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0011_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV11[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV12[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV13[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv
+#EXTINF:-1 ,CCTV14[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 ,安徽卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 ,东方卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 ,东南卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv
+#EXTINF:-1 ,法治天地[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1017_1.m3u8?key=txiptv
+#EXTINF:-1 ,广东卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 ,广西卫视[785*576]
+http://223.78.65.165:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 ,贵州卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 ,河北卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0117_1.m3u8?key=txiptv
+#EXTINF:-1 ,河南卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv
+#EXTINF:-1 ,黑龙江卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖北卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 ,湖南卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 ,江苏卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv
+#EXTINF:-1 ,乐游[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1020_1.m3u8?key=txiptv
+#EXTINF:-1 ,辽宁卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0121_1.m3u8?key=txiptv
+#EXTINF:-1 ,内蒙古卫视[768*576]
+http://223.78.65.165:9901/tsfile/live/0109_1.m3u8?key=txiptv
+#EXTINF:-1 ,宁夏卫视[785*576]
+http://223.78.65.165:9901/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 ,青岛1[1024*576]
+http://223.78.65.165:9901/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 ,青岛2[1024*576]
+http://223.78.65.165:9901/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 ,青岛3[1024*576]
+http://223.78.65.165:9901/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 ,青岛4[1024*576]
+http://223.78.65.165:9901/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东教育[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东农科[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东齐鲁[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东少儿[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东生活[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东体育休闲[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东文旅[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东新闻[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 ,山东综艺[1920*1080]
+http://223.78.65.165:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 ,山西卫视[768*576]
+http://223.78.65.165:9901/tsfile/live/0118_1.m3u8?key=txiptv
+#EXTINF:-1 ,陕西卫视[768*576]
+http://223.78.65.165:9901/tsfile/live/0136_1.m3u8?key=txiptv
+#EXTINF:-1 ,深圳卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 ,天津卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 ,云南卫视[785*576]
+http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 ,浙江卫视[1920*1080]
+http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv
+#EXTINF:-1 ,====== 江苏,#genre# ======
+http://14/14.m3u8
+#EXTINF:-1 ,南京教科
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 ,南京新闻综合
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 ,苏州1-新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 ,苏州2-社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 ,苏州3-文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 ,苏州4-电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 ,苏州5-生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 ,苏州6-超清频道
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 ,镇江新闻综合
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 ,镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 ,镇江社会民生
+http://cm-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 ,镇江社会民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 ,无锡新闻综合
+http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,常熟民生
+http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
+#EXTINF:-1 ,淮安公共
+https://live1.zghaw.cn/ggpdsl/sd/live.m3u8
+#EXTINF:-1 ,淮安影视娱乐
+https://live1.zghaw.cn/ysylsl/sd/live.m3u8
+#EXTINF:-1 ,====== 阿里云,#genre# ======
+http://15/15.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226635/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226736/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226737/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226694/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226705/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226703/1.m3u8
+#EXTINF:-1 ,CCTV1
+http://59.110.175.70:23567/PLTV/651/224/3221226823/1.m3u8
+#EXTINF:-1 ,CCTV2
+http://59.110.175.70:23567/PLTV/651/224/3221226739/1.m3u8
+#EXTINF:-1 ,CCTV3
+http://59.110.175.70:23567/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 ,CCTV4
+http://59.110.175.70:23567/PLTV/651/224/3221226725/1.m3u8
+#EXTINF:-1 ,CCTV5
+http://59.110.175.70:23567/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 ,CCTV5+
+http://59.110.175.70:23567/PLTV/651/224/3221226711/1.m3u8
+#EXTINF:-1 ,CCTV6
+http://59.110.175.70:23567/PLTV/651/224/3221226699/1.m3u8
+#EXTINF:-1 ,CCTV7
+http://59.110.175.70:23567/PLTV/651/224/3221226721/1.m3u8
+#EXTINF:-1 ,CCTV8
+http://59.110.175.70:23567/PLTV/651/224/3221226715/1.m3u8
+#EXTINF:-1 ,CCTV9
+http://59.110.175.70:23567/PLTV/651/224/3221226651/1.m3u8
+#EXTINF:-1 ,CCTV9
+http://59.110.175.70:23567/PLTV/651/224/3221226657/1.m3u8
+#EXTINF:-1 ,CCTV10
+http://59.110.175.70:23567/PLTV/651/224/3221226708/1.m3u8
+#EXTINF:-1 ,CCTV11
+http://59.110.175.70:23567/PLTV/651/224/3221226714/1.m3u8
+#EXTINF:-1 ,CCTV12
+http://59.110.175.70:23567/PLTV/651/224/3221226723/1.m3u8
+#EXTINF:-1 ,CCTV12
+http://59.110.175.70:23567/PLTV/651/224/3221226748/1.m3u8
+#EXTINF:-1 ,CCTV13
+http://59.110.175.70:23567/PLTV/651/224/3221226717/1.m3u8
+#EXTINF:-1 ,CCTV14
+http://59.110.175.70:23567/PLTV/651/224/3221226645/1.m3u8
+#EXTINF:-1 ,CCTV14
+http://59.110.175.70:23567/PLTV/651/224/3221226663/1.m3u8
+#EXTINF:-1 ,CCTV15
+http://59.110.175.70:23567/PLTV/651/224/3221226648/1.m3u8
+#EXTINF:-1 ,CCTV16
+http://59.110.175.70:23567/PLTV/651/224/3221226825/1.m3u8
+#EXTINF:-1 ,CCTV17
+http://59.110.175.70:23567/PLTV/651/224/3221226660/1.m3u8
+#EXTINF:-1 ,CCTV17
+http://59.110.175.70:23567/PLTV/651/224/3221226727/1.m3u8
+#EXTINF:-1 ,CETV1
+http://59.110.175.70:23567/PLTV/651/224/3221226673/1.m3u8
+#EXTINF:-1 ,CETV1
+http://59.110.175.70:23567/PLTV/651/224/3221226712/1.m3u8
+#EXTINF:-1 ,CETV2
+http://59.110.175.70:23567/PLTV/651/224/3221226718/1.m3u8
+#EXTINF:-1 ,CETV3
+http://59.110.175.70:23567/PLTV/651/224/3221226722/1.m3u8
+#EXTINF:-1 ,CETV4
+http://59.110.175.70:23567/PLTV/651/224/3221226724/1.m3u8
+#EXTINF:-1 ,CGTN英语
+http://59.110.175.70:23567/PLTV/651/224/3221226666/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226655/1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226664/1.m3u8
+#EXTINF:-1 ,北京卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226719/1.m3u8
+#EXTINF:-1 ,兵团卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226661/1.m3u8
+#EXTINF:-1 ,东方卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226734/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226670/1.m3u8
+#EXTINF:-1 ,东南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226675/1.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226662/1.m3u8
+#EXTINF:-1 ,广东卫视
+http://59.110.175.70:23567/PLTV/651/224/3221227161/1.m3u8
+#EXTINF:-1 ,广西卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226681/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226672/1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226676/1.m3u8
+#EXTINF:-1 ,海南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226679/1.m3u8
+#EXTINF:-1 ,海南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226683/1.m3u8
+#EXTINF:-1 ,河北卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226684/1.m3u8
+#EXTINF:-1 ,河北卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226665/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226668/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226687/1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226716/1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226713/1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226698/1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226671/1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226692/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226682/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226726/1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226689/1.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226685/1.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226691/1.m3u8
+#EXTINF:-1 ,青海卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226696/1.m3u8
+#EXTINF:-1 ,厦门卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226695/1.m3u8
+#EXTINF:-1 ,山东教育
+http://59.110.175.70:23567/PLTV/651/224/3221226701/1.m3u8
+#EXTINF:-1 ,山东卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226693/1.m3u8
+#EXTINF:-1 ,山西卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226704/1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226707/1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226688/1.m3u8
+#EXTINF:-1 ,四川卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226659/1.m3u8
+#EXTINF:-1 ,四川卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226697/1.m3u8
+#EXTINF:-1 ,天津卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226686/1.m3u8
+#EXTINF:-1 ,西藏卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226710/1.m3u8
+#EXTINF:-1 ,新疆卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226700/1.m3u8
+#EXTINF:-1 ,云南卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226709/1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226690/1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://59.110.175.70:23567/PLTV/651/224/3221226680/1.m3u8
+#EXTINF:-1 ,纪实科教
+http://59.110.175.70:23567/PLTV/651/224/3221226656/1.m3u8
+#EXTINF:-1 ,纪实科教
+http://59.110.175.70:23567/PLTV/651/224/3221226658/1.m3u8
+#EXTINF:-1 ,纪实科教
+http://59.110.175.70:23567/PLTV/651/224/3221226730/1.m3u8
+#EXTINF:-1 ,金鹰纪实
+http://59.110.175.70:23567/PLTV/651/224/3221226667/1.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://59.110.175.70:23567/PLTV/651/224/3221226674/1.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://59.110.175.70:23567/PLTV/651/224/3221226677/1.m3u8
+#EXTINF:-1 ,哒啵电竞
+http://59.110.175.70:23567/PLTV/651/224/3221226891/1.m3u8
+#EXTINF:-1 ,哒啵赛事
+http://59.110.175.70:23567/PLTV/651/224/3221226905/1.m3u8
+#EXTINF:-1 ,咪咕睛彩竞技
+http://59.110.175.70:23567/PLTV/651/224/3221226870/1.m3u8
+#EXTINF:-1 ,咪咕睛彩篮球
+http://59.110.175.70:23567/PLTV/651/224/3221226952/1.m3u8
+#EXTINF:-1 ,咪咕睛彩青少
+http://59.110.175.70:23567/PLTV/651/224/3221226965/1.m3u8
+#EXTINF:-1 ,咪咕视频01
+http://59.110.175.70:23567/PLTV/651/224/3221226776/1.m3u8
+#EXTINF:-1 ,咪咕视频02
+http://59.110.175.70:23567/PLTV/651/224/3221226909/1.m3u8
+#EXTINF:-1 ,咪咕视频03
+http://59.110.175.70:23567/PLTV/651/224/3221226912/1.m3u8
+#EXTINF:-1 ,咪咕视频04
+http://59.110.175.70:23567/PLTV/651/224/3221226915/1.m3u8
+#EXTINF:-1 ,咪咕视频05
+http://59.110.175.70:23567/PLTV/651/224/3221226918/1.m3u8
+#EXTINF:-1 ,咪咕视频06
+http://59.110.175.70:23567/PLTV/651/224/3221226921/1.m3u8
+#EXTINF:-1 ,咪咕视频07
+http://59.110.175.70:23567/PLTV/651/224/3221226923/1.m3u8
+#EXTINF:-1 ,咪咕视频08
+http://59.110.175.70:23567/PLTV/651/224/3221226924/1.m3u8
+#EXTINF:-1 ,咪咕视频09
+http://59.110.175.70:23567/PLTV/651/224/3221226927/1.m3u8
+#EXTINF:-1 ,咪咕视频10
+http://59.110.175.70:23567/PLTV/651/224/3221226926/1.m3u8
+#EXTINF:-1 ,咪咕视频11
+http://59.110.175.70:23567/PLTV/651/224/3221226929/1.m3u8
+#EXTINF:-1 ,咪咕视频12
+http://59.110.175.70:23567/PLTV/651/224/3221226930/1.m3u8
+#EXTINF:-1 ,咪咕视频13
+http://59.110.175.70:23567/PLTV/651/224/3221226932/1.m3u8
+#EXTINF:-1 ,咪咕视频14
+http://59.110.175.70:23567/PLTV/651/224/3221226933/1.m3u8
+#EXTINF:-1 ,咪咕视频15
+http://59.110.175.70:23567/PLTV/651/224/3221226936/1.m3u8
+#EXTINF:-1 ,咪咕视频16
+http://59.110.175.70:23567/PLTV/651/224/3221226935/1.m3u8
+#EXTINF:-1 ,咪咕视频17
+http://59.110.175.70:23567/PLTV/651/224/3221226941/1.m3u8
+#EXTINF:-1 ,咪咕视频18
+http://59.110.175.70:23567/PLTV/651/224/3221226944/1.m3u8
+#EXTINF:-1 ,咪咕视频19
+http://59.110.175.70:23567/PLTV/651/224/3221226947/1.m3u8
+#EXTINF:-1 ,咪咕视频20
+http://59.110.175.70:23567/PLTV/651/224/3221226948/1.m3u8
+#EXTINF:-1 ,咪咕视频21
+http://59.110.175.70:23567/PLTV/651/224/3221226950/1.m3u8
+#EXTINF:-1 ,咪咕视频22
+http://59.110.175.70:23567/PLTV/651/224/3221226951/1.m3u8
+#EXTINF:-1 ,咪咕视频23
+http://59.110.175.70:23567/PLTV/651/224/3221226953/1.m3u8
+#EXTINF:-1 ,咪咕视频24
+http://59.110.175.70:23567/PLTV/651/224/3221226954/1.m3u8
+#EXTINF:-1 ,咪咕视频25
+http://59.110.175.70:23567/PLTV/651/224/3221226956/1.m3u8
+#EXTINF:-1 ,咪咕视频26
+http://59.110.175.70:23567/PLTV/651/224/3221226966/1.m3u8
+#EXTINF:-1 ,咪咕视频27
+http://59.110.175.70:23567/PLTV/651/224/3221226969/1.m3u8
+#EXTINF:-1 ,咪咕视频28
+http://59.110.175.70:23567/PLTV/651/224/3221226982/1.m3u8
+#EXTINF:-1 ,咪咕视频29
+http://59.110.175.70:23567/PLTV/651/224/3221226985/1.m3u8
+#EXTINF:-1 ,咪咕视频30
+http://59.110.175.70:23567/PLTV/651/224/3221226988/1.m3u8
+#EXTINF:-1 ,咪咕视频31
+http://59.110.175.70:23567/PLTV/651/224/3221226992/1.m3u8
+#EXTINF:-1 ,咪咕视频32
+http://59.110.175.70:23567/PLTV/651/224/3221226995/1.m3u8
+#EXTINF:-1 ,咪咕视频33
+http://59.110.175.70:23567/PLTV/651/224/3221226994/1.m3u8
+#EXTINF:-1 ,咪咕视频34
+http://59.110.175.70:23567/PLTV/651/224/3221226997/1.m3u8
+#EXTINF:-1 ,咪咕视频35
+http://59.110.175.70:23567/PLTV/651/224/3221227000/1.m3u8
+#EXTINF:-1 ,咪咕视频36
+http://59.110.175.70:23567/PLTV/651/224/3221227003/1.m3u8
+#EXTINF:-1 ,咪咕视频37
+http://59.110.175.70:23567/PLTV/651/224/3221227006/1.m3u8
+#EXTINF:-1 ,咪咕视频38
+http://59.110.175.70:23567/PLTV/651/224/3221227009/1.m3u8
+#EXTINF:-1 ,咪咕视频39
+http://59.110.175.70:23567/PLTV/651/224/3221227012/1.m3u8
+#EXTINF:-1 ,咪咕视频40
+http://59.110.175.70:23567/PLTV/651/224/3221227024/1.m3u8
+#EXTINF:-1 ,咪咕视频41
+http://59.110.175.70:23567/PLTV/651/224/3221227027/1.m3u8
+#EXTINF:-1 ,咪咕视频42
+http://59.110.175.70:23567/PLTV/651/224/3221227030/1.m3u8
+#EXTINF:-1 ,咪咕视频43
+http://59.110.175.70:23567/PLTV/651/224/3221227036/1.m3u8
+#EXTINF:-1 ,咪咕视频4K1
+http://59.110.175.70:23567/PLTV/651/224/3221226938/1.m3u8
+#EXTINF:-1 ,咪咕视频4K2
+http://59.110.175.70:23567/PLTV/651/224/3221226989/1.m3u8
+#EXTINF:-1 ,咪咕视频4K3
+http://59.110.175.70:23567/PLTV/651/224/3221226991/1.m3u8
+#EXTINF:-1 ,央广购物
+http://59.110.175.70:23567/PLTV/651/224/3221227413/1.m3u8
+#EXTINF:-1 ,====== 腾讯云南,#genre# ======
+http://16/16.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874601_dlna.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874602_dlna.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874201_dlna.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874202_dlna.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874203_dlna.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875101_dlna.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875102_dlna.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874501_dlna.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874502_dlna.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874503_dlna.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874701_dlna.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874702_dlna.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874301_dlna.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874302_dlna.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874801_dlna.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874802_dlna.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874401_dlna.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874402_dlna.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874403_dlna.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875001_dlna.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875002_dlna.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
+#EXTINF:-1 ,CCTV文化精品
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874901_dlna.m3u8
+#EXTINF:-1 ,CCTV文化精品
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874902_dlna.m3u8
+#EXTINF:-1 ,CCTV文化精品
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874903_dlna.m3u8
+#EXTINF:-1 ,====== 黑龙江,#genre# ======
+http://17/17.m3u8
+#EXTINF:-1 ,黑龙江新闻法治
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 ,黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 ,黑龙江农业科教
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 ,黑龙江影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 ,黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 ,黑龙江少儿
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 ,哈尔滨新闻综合
+https://rmplive.hljtv.com/live/haerbin.m3u8
+#EXTINF:-1 ,哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨新闻综合
+https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
+#EXTINF:-1 ,哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 ,哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 ,齐齐哈尔新闻综合
+https://masterpull.hljtv.com/live/dUi8b96l.m3u8
+#EXTINF:-1 ,齐齐哈尔新闻综合
+https://rmplive.hljtv.com/live/qiqihaer.m3u8
+#EXTINF:-1 ,鹤岗综合
+https://masterpull.hljtv.com/live/rApKWXbX.m3u8
+#EXTINF:-1 ,鹤岗综合
+https://rmplive.hljtv.com/live/hegang.m3u8
+#EXTINF:-1 ,大庆新闻综合
+https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
+#EXTINF:-1 ,伊春综合
+https://liveplaysr.dbw.cn/lsdream/pkHc359/2000/live.m3u8
+#EXTINF:-1 ,伊春综合
+https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
+#EXTINF:-1 ,伊春综合
+https://rmplive.hljtv.com/live/yichun.m3u8
+#EXTINF:-1 ,七台河新闻综合
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+#EXTINF:-1 ,七台河新闻综合
+https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
+#EXTINF:-1 ,七台河新闻综合
+https://rmplive.hljtv.com/live/qitaihe.m3u8
+#EXTINF:-1 ,七台河民生社教
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1 ,牡丹江新闻
+https://masterpull.hljtv.com/live/newLqQS9Lcp.m3u8
+#EXTINF:-1 ,黑河新闻综合
+https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+#EXTINF:-1 ,黑河新闻综合
+https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
+#EXTINF:-1 ,绥化新闻综合
+https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+#EXTINF:-1 ,绥化新闻综合
+https://rmplive.hljtv.com/live/suihua.m3u8
+#EXTINF:-1 ,绥化新闻综合
+https://liveplaysr.dbw.cn/lsdream/amzPoBP/1000/live.m3u8
+#EXTINF:-1 ,漠河综合
+https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+#EXTINF:-1 ,东宁综合
+https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+#EXTINF:-1 ,富锦综合
+https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
+#EXTINF:-1 ,尚志综合
+https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+#EXTINF:-1 ,勃利综合
+https://masterpull.hljtv.com/live/6rx9bifO.m3u8
+#EXTINF:-1 ,安达综合
+https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
+#EXTINF:-1 ,林甸综合
+https://rmplive.hljtv.com/live/lindian.m3u8
+#EXTINF:-1 ,====== 陕西,#genre# ======
+http://18/18.m3u8
+#EXTINF:-1 ,陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 ,陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1 ,陕西银龄
+http://gxlive.snrtv.com/sx3-SD.m3u8
+#EXTINF:-1 ,陕西秦腔
+http://gxlive.snrtv.com/sx5-SD.m3u8
+#EXTINF:-1 ,陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 ,陕西农林卫视
+http://gxlive.snrtv.com/nlws-SD.m3u8
+#EXTINF:-1 ,陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 ,====== 河北,#genre# ======
+http://19/19.m3u8
+#EXTINF:-1 ,邢台综合
+http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,邢台综合
+https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,邢台生活
+https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,邯郸新闻
+https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,张家口综合
+https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
+#EXTINF:-1 ,张家口公共
+https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
+#EXTINF:-1 ,====== 云南,#genre# ======
+http://20/20.m3u8
+#EXTINF:-1 ,云南都市
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1 ,云南娱乐
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 ,云南影视
+https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+#EXTINF:-1 ,云南康旅
+https://hwapi.yntv.net/62hdvf/227q43.m3u8
+#EXTINF:-1 ,云南保山1
+https://hwapi.yntv.net/7y80ii/7672o4.m3u8
+#EXTINF:-1 ,大理新闻
+https://hwapi.yntv.net/ew265l/n944fg.m3u8
+#EXTINF:-1 ,丽江新闻综合
+https://hwapi.yntv.net/ew265l/ke88o9.m3u8
+#EXTINF:-1 ,玉溪新闻综合
+https://hwapi.yntv.net/r5fc3f/4kzlat_hd.m3u8
+#EXTINF:-1 ,玉溪社会与法
+https://hwapi.yntv.net/r5fc3f/3l9g1m.m3u8
+#EXTINF:-1 ,昭通1
+https://hwapi.yntv.net/ew265l/5fkqnm.m3u8
+#EXTINF:-1 ,昭通3
+https://hwapi.yntv.net/9nwc4s/y7445b.m3u8
+#EXTINF:-1 ,楚雄新闻
+https://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 ,====== 新疆,#genre# ======
+http://21/21.m3u8
+#EXTINF:-1 ,塔城1
+http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+#EXTINF:-1 ,塔城2
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1 ,兵团四师
+http://test5.btzx.com.cn/live/kkdl.stream/chunklist_w1984775581.m3u8
+#EXTINF:-1 ,兵团五师
+https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
+#EXTINF:-1 ,兵团六师
+https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 ,兵团七师
+https://liveout.btzx.com.cn/ybtkau/078syl.m3u8
+#EXTINF:-1 ,兵团八师
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 ,兵团八师
+http://124.88.144.73:1935/live/xwzh/chunklist_w38682024.m3u8
+#EXTINF:-1 ,兵团九师
+https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
+#EXTINF:-1 ,兵团十三师
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+#EXTINF:-1 ,兵团十四师
+http://test5.btzx.com.cn/live/14TV.stream/chunklist_w47066717.m3u8
+#EXTINF:-1 ,兵团十四师
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+#EXTINF:-1 ,巴音郭楞1
+http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+#EXTINF:-1 ,巴音郭楞2
+http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+#EXTINF:-1 ,巴音郭楞3
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1 ,巴音郭楞4
+http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+#EXTINF:-1 ,伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 ,伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 ,伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 ,伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+#EXTINF:-1 ,伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 ,伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆|塔城1
+http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
+#EXTINF:-1 ,新疆|塔城2
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+#EXTINF:-1 ,====== 广东,#genre# ======
+http://22/22.m3u8
+#EXTINF:-1 ,南国都市
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 ,南国都市
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 ,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 ,广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 ,广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 ,广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 ,东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 ,东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+#EXTINF:-1 ,====== 四川,#genre# ======
+http://23/23.m3u8
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.1:5140
+#EXTINF:-1 ,CCTV1
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.31:5140
+#EXTINF:-1 ,CCTV2
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV2
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV2
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV2
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV2
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.2:5140
+#EXTINF:-1 ,CCTV3
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV3
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV3
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV3
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV3
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.3:5140
+#EXTINF:-1 ,CCTV4
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.4:5140
+#EXTINF:-1 ,CCTV4
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.4:5140
+#EXTINF:-1 ,CCTV4
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.4:5140
+#EXTINF:-1 ,CCTV4
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.4:5140
+#EXTINF:-1 ,CCTV4
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.4:5140
+#EXTINF:-1 ,CCTV6
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV6
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV6
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV6
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV6
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.6:5140
+#EXTINF:-1 ,CCTV7
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.7:5140
+#EXTINF:-1 ,CCTV7
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.7:5140
+#EXTINF:-1 ,CCTV7
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.7:5140
+#EXTINF:-1 ,CCTV7
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.7:5140
+#EXTINF:-1 ,CCTV7
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.7:5140
+#EXTINF:-1 ,CCTV8
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV8
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV8
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV8
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV8
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.8:5140
+#EXTINF:-1 ,CCTV9
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.9:5140
+#EXTINF:-1 ,CCTV9
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.9:5140
+#EXTINF:-1 ,CCTV9
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.9:5140
+#EXTINF:-1 ,CCTV9
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.9:5140
+#EXTINF:-1 ,CCTV9
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.9:5140
+#EXTINF:-1 ,CCTV10
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV10
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV10
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV10
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV10
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.10:5140
+#EXTINF:-1 ,CCTV11
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV11
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV11
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV11
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV11
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.11:5140
+#EXTINF:-1 ,CCTV12
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.12:5140
+#EXTINF:-1 ,CCTV12
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.12:5140
+#EXTINF:-1 ,CCTV12
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.12:5140
+#EXTINF:-1 ,CCTV12
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.12:5140
+#EXTINF:-1 ,CCTV12
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.12:5140
+#EXTINF:-1 ,CCTV13
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV13
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV13
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV13
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV13
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.13:5140
+#EXTINF:-1 ,CCTV14
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.14:5140
+#EXTINF:-1 ,CCTV14
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.14:5140
+#EXTINF:-1 ,CCTV14
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.14:5140
+#EXTINF:-1 ,CCTV14
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.14:5140
+#EXTINF:-1 ,CCTV14
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.14:5140
+#EXTINF:-1 ,四川卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.115:5140
+#EXTINF:-1 ,四川卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.115:5140
+#EXTINF:-1 ,四川卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.115:5140
+#EXTINF:-1 ,四川卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.115:5140
+#EXTINF:-1 ,四川卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.115:5140
+#EXTINF:-1 ,四川新闻
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.72:5140
+#EXTINF:-1 ,四川新闻
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.72:5140
+#EXTINF:-1 ,四川新闻
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.72:5140
+#EXTINF:-1 ,四川新闻
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.72:5140
+#EXTINF:-1 ,四川新闻
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.72:5140
+#EXTINF:-1 ,四川经济
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.70:5140
+#EXTINF:-1 ,四川经济
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.70:5140
+#EXTINF:-1 ,四川经济
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.70:5140
+#EXTINF:-1 ,四川经济
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.70:5140
+#EXTINF:-1 ,四川经济
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.70:5140
+#EXTINF:-1 ,四川峨眉电影
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.103:5140
+#EXTINF:-1 ,四川峨眉电影
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.103:5140
+#EXTINF:-1 ,四川峨眉电影
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.103:5140
+#EXTINF:-1 ,四川峨眉电影
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.103:5140
+#EXTINF:-1 ,四川峨眉电影
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.103:5140
+#EXTINF:-1 ,四川影视文艺
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.73:5140
+#EXTINF:-1 ,四川影视文艺
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.73:5140
+#EXTINF:-1 ,四川影视文艺
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.73:5140
+#EXTINF:-1 ,四川影视文艺
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.73:5140
+#EXTINF:-1 ,四川影视文艺
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.73:5140
+#EXTINF:-1 ,四川文化旅游
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.71:5140
+#EXTINF:-1 ,四川文化旅游
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.71:5140
+#EXTINF:-1 ,四川文化旅游
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.71:5140
+#EXTINF:-1 ,四川文化旅游
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.71:5140
+#EXTINF:-1 ,四川文化旅游
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.71:5140
+#EXTINF:-1 ,四川乡村
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.77:5140
+#EXTINF:-1 ,四川乡村
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.77:5140
+#EXTINF:-1 ,四川乡村
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.77:5140
+#EXTINF:-1 ,四川乡村
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.77:5140
+#EXTINF:-1 ,四川乡村
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.77:5140
+#EXTINF:-1 ,四川妇儿
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.75:5140
+#EXTINF:-1 ,四川妇儿
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.75:5140
+#EXTINF:-1 ,四川妇儿
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.75:5140
+#EXTINF:-1 ,四川妇儿
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.75:5140
+#EXTINF:-1 ,四川妇儿
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.75:5140
+#EXTINF:-1 ,四川科教
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.76:5140
+#EXTINF:-1 ,四川科教
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.76:5140
+#EXTINF:-1 ,四川科教
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.76:5140
+#EXTINF:-1 ,四川科教
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.76:5140
+#EXTINF:-1 ,四川科教
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.76:5140
+#EXTINF:-1 ,四川星空购物
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.74:5140
+#EXTINF:-1 ,四川星空购物
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.74:5140
+#EXTINF:-1 ,四川星空购物
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.74:5140
+#EXTINF:-1 ,四川星空购物
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.74:5140
+#EXTINF:-1 ,四川星空购物
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.74:5140
+#EXTINF:-1 ,四川|成都1-综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.154:5140
+#EXTINF:-1 ,四川|成都1-综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.154:5140
+#EXTINF:-1 ,四川|成都1-综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.154:5140
+#EXTINF:-1 ,四川|成都1-综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.154:5140
+#EXTINF:-1 ,四川|成都1-综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.154:5140
+#EXTINF:-1 ,四川|成都2-经济
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.155:5140
+#EXTINF:-1 ,四川|成都2-经济
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.155:5140
+#EXTINF:-1 ,四川|成都2-经济
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.155:5140
+#EXTINF:-1 ,四川|成都2-经济
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.155:5140
+#EXTINF:-1 ,四川|成都2-经济
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.155:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.156:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.156:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.156:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.156:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.156:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.174:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.174:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.174:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.174:5140
+#EXTINF:-1 ,四川|成都3-生活
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.174:5140
+#EXTINF:-1 ,四川|成都4-新闻
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.157:5140
+#EXTINF:-1 ,四川|成都4-新闻
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.157:5140
+#EXTINF:-1 ,四川|成都4-新闻
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.157:5140
+#EXTINF:-1 ,四川|成都4-新闻
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.157:5140
+#EXTINF:-1 ,四川|成都4-新闻
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.157:5140
+#EXTINF:-1 ,四川|成都5-公共
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.158:5140
+#EXTINF:-1 ,四川|成都5-公共
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.158:5140
+#EXTINF:-1 ,四川|成都5-公共
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.158:5140
+#EXTINF:-1 ,四川|成都5-公共
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.158:5140
+#EXTINF:-1 ,四川|成都5-公共
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.158:5140
+#EXTINF:-1 ,四川|成都6-少儿
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.159:5140
+#EXTINF:-1 ,四川|成都6-少儿
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.159:5140
+#EXTINF:-1 ,四川|成都6-少儿
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.159:5140
+#EXTINF:-1 ,四川|成都6-少儿
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.159:5140
+#EXTINF:-1 ,四川|成都6-少儿
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.159:5140
+#EXTINF:-1 ,四川|成都8-购物
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.160:5140
+#EXTINF:-1 ,四川|成都8-购物
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.160:5140
+#EXTINF:-1 ,四川|成都8-购物
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.160:5140
+#EXTINF:-1 ,四川|成都8-购物
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.160:5140
+#EXTINF:-1 ,四川|成都8-购物
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.160:5140
+#EXTINF:-1 ,四川|德阳文旅科教
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.165:5140
+#EXTINF:-1 ,四川|德阳文旅科教
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.165:5140
+#EXTINF:-1 ,四川|德阳文旅科教
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.165:5140
+#EXTINF:-1 ,四川|德阳文旅科教
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.165:5140
+#EXTINF:-1 ,四川|德阳文旅科教
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.165:5140
+#EXTINF:-1 ,四川|广元综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.167:5140
+#EXTINF:-1 ,四川|广元综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.167:5140
+#EXTINF:-1 ,四川|广元综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.167:5140
+#EXTINF:-1 ,四川|广元综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.167:5140
+#EXTINF:-1 ,四川|广元综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.167:5140
+#EXTINF:-1 ,四川|乐山文旅生活
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.173:5140
+#EXTINF:-1 ,四川|乐山文旅生活
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.173:5140
+#EXTINF:-1 ,四川|乐山文旅生活
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.173:5140
+#EXTINF:-1 ,四川|乐山文旅生活
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.173:5140
+#EXTINF:-1 ,四川|乐山文旅生活
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.173:5140
+#EXTINF:-1 ,四川|乐山新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.162:5140
+#EXTINF:-1 ,四川|乐山新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.162:5140
+#EXTINF:-1 ,四川|乐山新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.162:5140
+#EXTINF:-1 ,四川|乐山新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.162:5140
+#EXTINF:-1 ,四川|乐山新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.162:5140
+#EXTINF:-1 ,四川|泸州新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.163:5140
+#EXTINF:-1 ,四川|泸州新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.163:5140
+#EXTINF:-1 ,四川|泸州新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.163:5140
+#EXTINF:-1 ,四川|泸州新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.163:5140
+#EXTINF:-1 ,四川|泸州新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.163:5140
+#EXTINF:-1 ,四川|眉山综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.170:5140
+#EXTINF:-1 ,四川|眉山综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.170:5140
+#EXTINF:-1 ,四川|眉山综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.170:5140
+#EXTINF:-1 ,四川|眉山综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.170:5140
+#EXTINF:-1 ,四川|眉山综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.170:5140
+#EXTINF:-1 ,四川|内江综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.164:5140
+#EXTINF:-1 ,四川|内江综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.164:5140
+#EXTINF:-1 ,四川|内江综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.164:5140
+#EXTINF:-1 ,四川|内江综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.164:5140
+#EXTINF:-1 ,四川|内江综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.164:5140
+#EXTINF:-1 ,四川|攀枝花新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.168:5140
+#EXTINF:-1 ,四川|攀枝花新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.168:5140
+#EXTINF:-1 ,四川|攀枝花新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.168:5140
+#EXTINF:-1 ,四川|攀枝花新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.168:5140
+#EXTINF:-1 ,四川|攀枝花新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.168:5140
+#EXTINF:-1 ,四川|三台新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.171:5140
+#EXTINF:-1 ,四川|三台新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.171:5140
+#EXTINF:-1 ,四川|三台新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.171:5140
+#EXTINF:-1 ,四川|三台新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.171:5140
+#EXTINF:-1 ,四川|三台新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.171:5140
+#EXTINF:-1 ,四川|宜宾科教文旅
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.172:5140
+#EXTINF:-1 ,四川|宜宾科教文旅
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.172:5140
+#EXTINF:-1 ,四川|宜宾科教文旅
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.172:5140
+#EXTINF:-1 ,四川|宜宾科教文旅
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.172:5140
+#EXTINF:-1 ,四川|宜宾科教文旅
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.172:5140
+#EXTINF:-1 ,四川|宜宾新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.161:5140
+#EXTINF:-1 ,四川|宜宾新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.161:5140
+#EXTINF:-1 ,四川|宜宾新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.161:5140
+#EXTINF:-1 ,四川|宜宾新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.161:5140
+#EXTINF:-1 ,四川|宜宾新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.161:5140
+#EXTINF:-1 ,四川|自贡综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.169:5140
+#EXTINF:-1 ,四川|自贡综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.169:5140
+#EXTINF:-1 ,四川|自贡综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.169:5140
+#EXTINF:-1 ,四川|自贡综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.169:5140
+#EXTINF:-1 ,四川|自贡综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.169:5140
+#EXTINF:-1 ,四川|???新闻综合
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.166:5140
+#EXTINF:-1 ,四川|???新闻综合
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.166:5140
+#EXTINF:-1 ,四川|???新闻综合
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.166:5140
+#EXTINF:-1 ,四川|???新闻综合
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.166:5140
+#EXTINF:-1 ,四川|???新闻综合
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.166:5140
+#EXTINF:-1 ,安多卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.110:5140
+#EXTINF:-1 ,安多卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.110:5140
+#EXTINF:-1 ,安多卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.110:5140
+#EXTINF:-1 ,安多卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.110:5140
+#EXTINF:-1 ,安多卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.110:5140
+#EXTINF:-1 ,安徽卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.85:5140
+#EXTINF:-1 ,安徽卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.85:5140
+#EXTINF:-1 ,安徽卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.85:5140
+#EXTINF:-1 ,安徽卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.85:5140
+#EXTINF:-1 ,安徽卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.85:5140
+#EXTINF:-1 ,北京纪实科教
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.109:5140
+#EXTINF:-1 ,北京纪实科教
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.109:5140
+#EXTINF:-1 ,北京纪实科教
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.109:5140
+#EXTINF:-1 ,北京纪实科教
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.109:5140
+#EXTINF:-1 ,北京纪实科教
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.109:5140
+#EXTINF:-1 ,北京卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.65:5140
+#EXTINF:-1 ,北京卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.65:5140
+#EXTINF:-1 ,北京卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.65:5140
+#EXTINF:-1 ,北京卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.65:5140
+#EXTINF:-1 ,北京卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.65:5140
+#EXTINF:-1 ,兵团卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.102:5140
+#EXTINF:-1 ,兵团卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.102:5140
+#EXTINF:-1 ,兵团卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.102:5140
+#EXTINF:-1 ,兵团卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.102:5140
+#EXTINF:-1 ,兵团卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.102:5140
+#EXTINF:-1 ,东方卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.64:5140
+#EXTINF:-1 ,东方卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.64:5140
+#EXTINF:-1 ,东方卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.64:5140
+#EXTINF:-1 ,东方卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.64:5140
+#EXTINF:-1 ,东方卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.64:5140
+#EXTINF:-1 ,东南卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.80:5140
+#EXTINF:-1 ,东南卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.80:5140
+#EXTINF:-1 ,东南卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.80:5140
+#EXTINF:-1 ,东南卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.80:5140
+#EXTINF:-1 ,东南卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.80:5140
+#EXTINF:-1 ,甘肃卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.99:5140
+#EXTINF:-1 ,甘肃卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.99:5140
+#EXTINF:-1 ,甘肃卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.99:5140
+#EXTINF:-1 ,甘肃卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.99:5140
+#EXTINF:-1 ,甘肃卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.99:5140
+#EXTINF:-1 ,广东卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.67:5140
+#EXTINF:-1 ,广东卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.67:5140
+#EXTINF:-1 ,广东卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.67:5140
+#EXTINF:-1 ,广东卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.67:5140
+#EXTINF:-1 ,广东卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.67:5140
+#EXTINF:-1 ,广西卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.89:5140
+#EXTINF:-1 ,广西卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.89:5140
+#EXTINF:-1 ,广西卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.89:5140
+#EXTINF:-1 ,广西卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.89:5140
+#EXTINF:-1 ,广西卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.89:5140
+#EXTINF:-1 ,贵州卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.83:5140
+#EXTINF:-1 ,贵州卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.83:5140
+#EXTINF:-1 ,贵州卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.83:5140
+#EXTINF:-1 ,贵州卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.83:5140
+#EXTINF:-1 ,贵州卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.83:5140
+#EXTINF:-1 ,海南卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.100:5140
+#EXTINF:-1 ,海南卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.100:5140
+#EXTINF:-1 ,海南卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.100:5140
+#EXTINF:-1 ,海南卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.100:5140
+#EXTINF:-1 ,海南卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.100:5140
+#EXTINF:-1 ,河北卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.86:5140
+#EXTINF:-1 ,河北卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.86:5140
+#EXTINF:-1 ,河北卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.86:5140
+#EXTINF:-1 ,河北卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.86:5140
+#EXTINF:-1 ,河北卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.86:5140
+#EXTINF:-1 ,河南卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.88:5140
+#EXTINF:-1 ,河南卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.88:5140
+#EXTINF:-1 ,河南卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.88:5140
+#EXTINF:-1 ,河南卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.88:5140
+#EXTINF:-1 ,河南卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.88:5140
+#EXTINF:-1 ,黑龙江卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.81:5140
+#EXTINF:-1 ,黑龙江卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.81:5140
+#EXTINF:-1 ,黑龙江卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.81:5140
+#EXTINF:-1 ,黑龙江卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.81:5140
+#EXTINF:-1 ,黑龙江卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.81:5140
+#EXTINF:-1 ,湖北卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.84:5140
+#EXTINF:-1 ,湖北卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.84:5140
+#EXTINF:-1 ,湖北卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.84:5140
+#EXTINF:-1 ,湖北卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.84:5140
+#EXTINF:-1 ,湖北卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.84:5140
+#EXTINF:-1 ,湖南卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.61:5140
+#EXTINF:-1 ,湖南卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.61:5140
+#EXTINF:-1 ,湖南卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.61:5140
+#EXTINF:-1 ,湖南卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.61:5140
+#EXTINF:-1 ,湖南卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.61:5140
+#EXTINF:-1 ,吉林卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.91:5140
+#EXTINF:-1 ,吉林卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.91:5140
+#EXTINF:-1 ,吉林卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.91:5140
+#EXTINF:-1 ,吉林卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.91:5140
+#EXTINF:-1 ,吉林卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.91:5140
+#EXTINF:-1 ,江苏卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.62:5140
+#EXTINF:-1 ,江苏卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.62:5140
+#EXTINF:-1 ,江苏卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.62:5140
+#EXTINF:-1 ,江苏卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.62:5140
+#EXTINF:-1 ,江苏卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.62:5140
+#EXTINF:-1 ,江西卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.79:5140
+#EXTINF:-1 ,江西卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.79:5140
+#EXTINF:-1 ,江西卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.79:5140
+#EXTINF:-1 ,江西卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.79:5140
+#EXTINF:-1 ,江西卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.79:5140
+#EXTINF:-1 ,康巴卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.78:5140
+#EXTINF:-1 ,康巴卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.78:5140
+#EXTINF:-1 ,康巴卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.78:5140
+#EXTINF:-1 ,康巴卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.78:5140
+#EXTINF:-1 ,康巴卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.78:5140
+#EXTINF:-1 ,辽宁卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.101:5140
+#EXTINF:-1 ,辽宁卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.101:5140
+#EXTINF:-1 ,辽宁卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.101:5140
+#EXTINF:-1 ,辽宁卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.101:5140
+#EXTINF:-1 ,辽宁卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.101:5140
+#EXTINF:-1 ,内蒙古卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.94:5140
+#EXTINF:-1 ,内蒙古卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.94:5140
+#EXTINF:-1 ,内蒙古卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.94:5140
+#EXTINF:-1 ,内蒙古卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.94:5140
+#EXTINF:-1 ,内蒙古卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.94:5140
+#EXTINF:-1 ,宁夏卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.96:5140
+#EXTINF:-1 ,宁夏卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.96:5140
+#EXTINF:-1 ,宁夏卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.96:5140
+#EXTINF:-1 ,宁夏卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.96:5140
+#EXTINF:-1 ,宁夏卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.96:5140
+#EXTINF:-1 ,青海卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.95:5140
+#EXTINF:-1 ,青海卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.95:5140
+#EXTINF:-1 ,青海卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.95:5140
+#EXTINF:-1 ,青海卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.95:5140
+#EXTINF:-1 ,青海卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.95:5140
+#EXTINF:-1 ,三沙卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.105:5140
+#EXTINF:-1 ,三沙卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.105:5140
+#EXTINF:-1 ,三沙卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.105:5140
+#EXTINF:-1 ,三沙卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.105:5140
+#EXTINF:-1 ,三沙卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.105:5140
+#EXTINF:-1 ,厦门卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.104:5140
+#EXTINF:-1 ,厦门卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.104:5140
+#EXTINF:-1 ,厦门卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.104:5140
+#EXTINF:-1 ,厦门卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.104:5140
+#EXTINF:-1 ,厦门卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.104:5140
+#EXTINF:-1 ,山东教育
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.106:5140
+#EXTINF:-1 ,山东教育
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.106:5140
+#EXTINF:-1 ,山东教育
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.106:5140
+#EXTINF:-1 ,山东教育
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.106:5140
+#EXTINF:-1 ,山东教育
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.106:5140
+#EXTINF:-1 ,山东卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.69:5140
+#EXTINF:-1 ,山东卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.69:5140
+#EXTINF:-1 ,山东卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.69:5140
+#EXTINF:-1 ,山东卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.69:5140
+#EXTINF:-1 ,山东卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.69:5140
+#EXTINF:-1 ,山西卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.93:5140
+#EXTINF:-1 ,山西卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.93:5140
+#EXTINF:-1 ,山西卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.93:5140
+#EXTINF:-1 ,山西卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.93:5140
+#EXTINF:-1 ,山西卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.93:5140
+#EXTINF:-1 ,陕西卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.92:5140
+#EXTINF:-1 ,陕西卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.92:5140
+#EXTINF:-1 ,陕西卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.92:5140
+#EXTINF:-1 ,陕西卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.92:5140
+#EXTINF:-1 ,陕西卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.92:5140
+#EXTINF:-1 ,深圳卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.66:5140
+#EXTINF:-1 ,深圳卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.66:5140
+#EXTINF:-1 ,深圳卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.66:5140
+#EXTINF:-1 ,深圳卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.66:5140
+#EXTINF:-1 ,深圳卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.66:5140
+#EXTINF:-1 ,天津卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.68:5140
+#EXTINF:-1 ,天津卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.68:5140
+#EXTINF:-1 ,天津卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.68:5140
+#EXTINF:-1 ,天津卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.68:5140
+#EXTINF:-1 ,天津卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.68:5140
+#EXTINF:-1 ,西藏卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.97:5140
+#EXTINF:-1 ,西藏卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.97:5140
+#EXTINF:-1 ,西藏卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.97:5140
+#EXTINF:-1 ,西藏卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.97:5140
+#EXTINF:-1 ,西藏卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.97:5140
+#EXTINF:-1 ,新疆卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.98:5140
+#EXTINF:-1 ,新疆卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.98:5140
+#EXTINF:-1 ,新疆卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.98:5140
+#EXTINF:-1 ,新疆卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.98:5140
+#EXTINF:-1 ,新疆卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.98:5140
+#EXTINF:-1 ,延边卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.107:5140
+#EXTINF:-1 ,延边卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.107:5140
+#EXTINF:-1 ,延边卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.107:5140
+#EXTINF:-1 ,延边卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.107:5140
+#EXTINF:-1 ,延边卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.107:5140
+#EXTINF:-1 ,云南卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.90:5140
+#EXTINF:-1 ,云南卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.90:5140
+#EXTINF:-1 ,云南卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.90:5140
+#EXTINF:-1 ,云南卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.90:5140
+#EXTINF:-1 ,云南卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.90:5140
+#EXTINF:-1 ,浙江卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.63:5140
+#EXTINF:-1 ,浙江卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.63:5140
+#EXTINF:-1 ,浙江卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.63:5140
+#EXTINF:-1 ,浙江卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.63:5140
+#EXTINF:-1 ,浙江卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.63:5140
+#EXTINF:-1 ,中国交通
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.87:5140
+#EXTINF:-1 ,中国交通
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.87:5140
+#EXTINF:-1 ,中国交通
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.87:5140
+#EXTINF:-1 ,中国交通
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.87:5140
+#EXTINF:-1 ,中国交通
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.87:5140
+#EXTINF:-1 ,重庆卫视
+http://8.129.10.65/http://cdrjjd3.51vip.biz:666/rtp/239.94.0.82:5140
+#EXTINF:-1 ,重庆卫视
+http://8.129.10.65/http://ipv4.lircal.online:10337/rtp/239.94.0.82:5140
+#EXTINF:-1 ,重庆卫视
+http://8.129.10.65/http://sckonlan.youankj.cn:8888/rtp/239.94.0.82:5140
+#EXTINF:-1 ,重庆卫视
+http://8.129.10.65/http://www.hybbb.win:7088/rtp/239.94.0.82:5140
+#EXTINF:-1 ,重庆卫视
+http://8.129.10.65/http://zlx.ilovex.top:3000/rtp/239.94.0.82:5140
+#EXTINF:-1 ,====== 上海,#genre# ======
+http://24/24.m3u8
+#EXTINF:-1 ,上海|东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 ,上海|新闻综合
+http://8.138.7.223/tv/5gtv.php?id=36
+#EXTINF:-1 ,上海|东方财经
+http://8.138.7.223/tv/5gtv.php?id=227
+#EXTINF:-1 ,上海|第一财经
+http://8.138.7.223/tv/5gtv.php?id=17
+#EXTINF:-1 ,上海|生活时尚
+http://8.138.7.223/tv/5gtv.php?id=230
+#EXTINF:-1 ,上海|法治天地
+http://8.138.7.223/tv/5gtv.php?id=29
+#EXTINF:-1 ,上海|金色学堂
+http://8.138.7.223/tv/5gtv.php?id=40
+#EXTINF:-1 ,上海|游戏风云
+http://8.138.7.223/tv/5gtv.php?id=224
+#EXTINF:-1 ,上海|东方财富
+https://volcanopull.aniu.tv/live/aniu1/index.m3u8
+#EXTINF:-1 ,上海|点掌财经
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
+
