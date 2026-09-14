@@ -554,9 +554,9 @@ NewTV中国功夫,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888
 吉安1-综合,https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 吉安2-公共,https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 萍乡综合,https://play-sh-21.quklive.com/live/1767680696432348.flv?auth_key=2093843903-21815d83dd5047608abbe5a659b5908d-0-21b97a00a1a3f4e549fc90253d894ae7
-抚州综合,http://fzcds.cn:799/hls/500/index.m3u8
+抚州综合,http://fzcds.cn:797/hls/500/index.m3u8
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-抚州公共,http://fzcds.cn:799/hls/26/index.m3u8
+抚州公共,http://fzcds.cn:797/hls/26/index.m3u8
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 宜春综合,http://liveds-yc.newsyc.com/wetef/sd/live.m3u8
 宜春公共,http://liveds-yc.newsyc.com/two/sd/live.m3u8
