@@ -860,6 +860,8 @@ CHC影迷电影,http://mg.cttv.vip/952383261
 
 
 易视腾,#genre#
+CCTV[4K],http://117.169.124.46:6410/ysten-businessmobile/live/H265-14M-2160P-cctv4k/yst.m3u8
+CCTV[4K],http://117.169.124.46:6610/ysten-businessmobile/live/H265-14M-2160P-cctv4k/yst.m3u8
 CCTV1,http://117.169.124.46:6410/ysten-businessmobile/live/cctv-1/yst.m3u8
 CCTV1,http://117.169.124.46:6610/ysten-businessmobile/live/cctv-1/yst.m3u8
 CCTV2,http://117.169.124.46:6410/ysten-businessmobile/live/cctv-2/yst.m3u8
@@ -1103,7 +1105,9 @@ CGTN英语,http://fzcds.cn:797/hls/16/index.m3u8
 锡林郭勒新闻综合,http://play1-qk.nmtv.cn/live/2332general.m3u8
 兴安盟新闻综合,http://play1-qk.nmtv.cn/live/2357general.m3u8
 兴安盟新闻综合,http://play1-qk.nmtv.cn/live/2343general.m3u8
+
 浙江,#genre#
+浙江卫视[4K],http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
@@ -1187,6 +1191,7 @@ CCTV14[1920*1080],http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv
 天津卫视[1920*1080],http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv
 云南卫视[785*576],http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv
 浙江卫视[1920*1080],http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv
+
 江苏,#genre#
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
