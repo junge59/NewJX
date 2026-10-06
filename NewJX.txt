@@ -1334,6 +1334,8 @@ CETV4[480],http://w.yyjn.top:3000/923287339
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
+大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+大兴安岭新闻综合,https://rmplive.hljtv.com/live/daxinganling.m3u8
 黑河新闻综合,https://liveplaysr.dbw.cn/lsdream/86qwqcs/1024/live.m3u8
 绥化新闻综合,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
 绥化新闻综合,https://rmplive.hljtv.com/live/suihua.m3u8
