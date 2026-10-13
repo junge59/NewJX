@@ -1202,7 +1202,7 @@ CETV4[720],http://w.yyjn.top:3000/923287339
 咪咕-睛彩篮球,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 咪咕-睛彩篮球,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 
-内蒙古,#genre#
+内蒙古地方,#genre#
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2317general.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/2315general.m3u8
@@ -1248,7 +1248,7 @@ CETV4[720],http://w.yyjn.top:3000/923287339
 赤峰新闻综合,http://genglei.8866.org:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 赤峰影视娱乐,http://genglei.8866.org:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
-浙江,#genre#
+浙江地方,#genre#
 浙江卫视[4K],http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -1293,7 +1293,7 @@ CETV4[720],http://w.yyjn.top:3000/923287339
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 
-江苏,#genre#
+江苏地方,#genre#
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
@@ -1316,7 +1316,7 @@ CETV4[720],http://w.yyjn.top:3000/923287339
 淮安影视娱乐,https://live1.zghaw.cn/ysylsl/sd/live.m3u8
 
 
-黑龙江,#genre#
+黑龙江地方,#genre#
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
@@ -1351,7 +1351,7 @@ CETV4[720],http://w.yyjn.top:3000/923287339
 安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
 林甸综合,https://rmplive.hljtv.com/live/lindian.m3u8
 
-陕西,#genre#
+陕西地方,#genre#
 陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
 陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
 陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
